@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/recipes/french-toast/</loc>
+    <lastmod>2018-01-07T20:13:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/black-bean-quesadillas/</loc>
+    <lastmod>2017-12-13T00:21:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/toasted-honey-popcorn/</loc>
+    <lastmod>2017-12-04T09:42:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/temposwing-thanksgiving-2017/</loc>
+    <lastmod>2017-11-23T15:09:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/temposwing-halloween-2017/</loc>
+    <lastmod>2017-10-25T11:42:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/coconut-macaroons/</loc>
+    <lastmod>2017-02-07T13:27:54-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/butter-frosting/</loc>
+    <lastmod>2016-12-24T13:28:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/sugar-cookies/</loc>
+    <lastmod>2016-12-24T13:28:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/honey-cornbread-muffins/</loc>
+    <lastmod>2016-11-30T21:40:51-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/no-bake-cookies/</loc>
+    <lastmod>2016-11-30T21:40:39-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/chocolate-peppermint-snaps/</loc>
+    <lastmod>2016-11-30T21:40:27-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-01-07T20:13:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/recipes/</loc>
+    <lastmod>2018-01-07T20:13:38-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

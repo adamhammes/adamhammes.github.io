@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on My New Hugo Site</title>
+    <link>http://example.org/recipes/</link>
+    <description>Recent content in Recipes on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jan 2018 20:13:38 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/recipes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>French Toast</title>
+      <link>http://example.org/recipes/french-toast/</link>
+      <pubDate>Sun, 07 Jan 2018 20:13:38 -0500</pubDate>
+      
+      <guid>http://example.org/recipes/french-toast/</guid>
+      <description>Ingredients  1 cup half-and-half 3 large eggs 2 tablespoons honey &amp;frac14; teaspoon salt 3 (&amp;frac12; inch) slices day-old or stale country loaf Butter to grease pan  Instructions  In a medium-size mixing bowl, whisk together the half-and-half, eggs, honey, and salt. This may be done the night before.
+ Preheat oven to 375 degrees F. Dip bread into mixture, allow to soak for 30 seconds on each side.</description>
+    </item>
+    
+    <item>
+      <title>Black Bean Quesadillas</title>
+      <link>http://example.org/recipes/black-bean-quesadillas/</link>
+      <pubDate>Wed, 13 Dec 2017 00:21:10 -0500</pubDate>
+      
+      <guid>http://example.org/recipes/black-bean-quesadillas/</guid>
+      <description>Ingredients  1 15 oz. can black beans 1 cup frozen corn kernels &amp;frac12; small red onion 1 clove garlic &amp;frac14; bunch fresh cilantro 2 cups shredded cheese 1 batch taco seasoning 10 taco-sized tortillas  Instructions  Drain the can of beans and rinse lightly. Place the beans in a large bowl along with the corn (no need to thaw).
+ Rinse the cilantro, remove the leaves, and chop roughly.</description>
+    </item>
+    
+    <item>
+      <title>Toasted Honey Popcorn</title>
+      <link>http://example.org/recipes/toasted-honey-popcorn/</link>
+      <pubDate>Mon, 04 Dec 2017 09:42:16 -0500</pubDate>
+      
+      <guid>http://example.org/recipes/toasted-honey-popcorn/</guid>
+      <description>Ingredients  2 tsp unflavored oil &amp;frac12; cup popcorn kernels 4 tbsp (&amp;frac12; stick) unsalted butter 3 tbsp honey 1 tsp kosher salt  Directions  Place the oil and three popcorn kernels in a large pot. Cover and heat over medium heat until all three kernels have popped. Pour in the remaining kernels, cover the pot again, and shake to distribute. As the popcorn pops, shake occasionally. Immediately remove from heat once the popping slows to two or three seconds between pops.</description>
+    </item>
+    
+    <item>
+      <title>Coconut Macaroons</title>
+      <link>http://example.org/recipes/coconut-macaroons/</link>
+      <pubDate>Tue, 07 Feb 2017 13:27:54 -0600</pubDate>
+      
+      <guid>http://example.org/recipes/coconut-macaroons/</guid>
+      <description>Ingredients  3 cups sweetened, shredded coconut 4 large egg whites &amp;frac12; cup sugar 1 teaspoon vanilla or almond extract &amp;frac14; teaspoon salt  Directions  Preheat the oven to 350°F For deeper coconut flavor and extra-crispy macaroons, spread the coconut on the baking sheet and toast for about 5 minutes, or until just barely starting to show some color. Let cool slightly before using. Combine the egg whites, sugar, vanilla, and salt in a mixing bowl.</description>
+    </item>
+    
+    <item>
+      <title>Butter Frosting</title>
+      <link>http://example.org/recipes/butter-frosting/</link>
+      <pubDate>Sat, 24 Dec 2016 13:28:25 -0500</pubDate>
+      
+      <guid>http://example.org/recipes/butter-frosting/</guid>
+      <description>Ingredients  6 tbsp butter 4 &amp;frac12; cups sifted confectioners&amp;rsquo; sugar (approximate) &amp;frac14; cup milk 1 tsp vanilla extract &amp;frac12; tsp almond extract Food coloring (optional)  Directions  In a bowl beat butter or margarine until fluffy. Gradually add 2 cups of the sugar, beating well. Beat in the milk, vanilla, and almond Alternate adding sugar and beating until a good spreading consistency is reached. Tint with food coloring if desired.</description>
+    </item>
+    
+    <item>
+      <title>Sugar Cookies</title>
+      <link>http://example.org/recipes/sugar-cookies/</link>
+      <pubDate>Sat, 24 Dec 2016 13:28:16 -0500</pubDate>
+      
+      <guid>http://example.org/recipes/sugar-cookies/</guid>
+      <description>Ingredients  1 &amp;frac12; cup butter, softened 2 cups white sugar 4 eggs 1 teaspoon vanilla extract 1 teaspoon almond extract (optional) 5 cups flour 2 teaspoon baking powder 1 teaspoon salt  Directions  In a large bowl, cream together butter and sugar until smooth. Beat in eggs and vanilla. Stir in the flour, baking powder, and salt. Cover, and chill dough for at least one hour. Preheat oven to 350 degrees.</description>
+    </item>
+    
+    <item>
+      <title>Honey Cornbread Muffins</title>
+      <link>http://example.org/recipes/honey-cornbread-muffins/</link>
+      <pubDate>Wed, 30 Nov 2016 21:40:51 -0600</pubDate>
+      
+      <guid>http://example.org/recipes/honey-cornbread-muffins/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>No-Bake Cookies</title>
+      <link>http://example.org/recipes/no-bake-cookies/</link>
+      <pubDate>Wed, 30 Nov 2016 21:40:39 -0600</pubDate>
+      
+      <guid>http://example.org/recipes/no-bake-cookies/</guid>
+      <description>Ingredients  2 cups sugar &amp;frac12; cup milk 1 stick (8 tablespoons) unsalted butter &amp;frac14; cup unsweetened cocoa powder 3 cups old-fashioned rolled oats 1 cup smooth peanut butter 1 tablespoon pure vanilla extract Large pinch kosher salt  Directions Line two baking sheets with wax paper or parchment.
+Bring the sugar, milk, butter and cocoa to a boil in a medium saucepan over medium heat, stirring occasionally, then let boil for 1 minute.</description>
+    </item>
+    
+    <item>
+      <title>Chocolate Peppermint Snaps</title>
+      <link>http://example.org/recipes/chocolate-peppermint-snaps/</link>
+      <pubDate>Wed, 30 Nov 2016 21:40:27 -0600</pubDate>
+      
+      <guid>http://example.org/recipes/chocolate-peppermint-snaps/</guid>
+      <description>Ingredients  &amp;frac34; cup (12 tablespoons) unsalted butter &amp;frac12; cup brown sugar &amp;frac12; cup granulated sugar 1 large egg 1 teaspon vanilla extract 1 teaspoon peppermint extract, or 1/8 teaspoon peppermint oil (or to taste) 1 &amp;frac12; cups all-purpose flour &amp;frac14; cup cocoa powder 1 teaspoon baking soda &amp;frac14; teaspoon salt 1 cup semisweet chocolate chips  Directions  Preheat the oven to 350°F. Lightly grease (or line with parchment) two baking sheets.</description>
+    </item>
+    
+  </channel>
+</rss>
