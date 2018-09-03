@@ -1,0 +1,7 @@
+{{ define "main" }}
+    {{ if isset .Params "title" }}
+        <h1>{{ .Title }}</h1>
+    {{ end }}
+
+    {{ .Content }}
+{{ end }}
