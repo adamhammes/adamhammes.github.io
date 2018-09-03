@@ -1,3 +1,4 @@
+{{ partial "header.html" . }}
 <h1>Recipes</h1>
 {{ range .Pages }}
 <article>
@@ -5,3 +6,4 @@
     <p>{{ .Params.description }}</p>
 </article>
 {{ end }}
+{{ partial "footer.html" . }}
