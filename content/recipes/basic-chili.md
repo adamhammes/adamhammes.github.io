@@ -35,4 +35,6 @@ Add the ground beef and continue to cook until the beef is browned.
 
 2. Drain the beans and add them to the pot along with the diced tomatoes, tomato paste, beef broth/water, and the chili seasoning ingredients.
 Stir until well-combined.
-Cover with a lid and allow to simmer for at *least* 15 minutes, stirring occasionally.
+
+3. Cover with a lid and allow to simmer for at *least* 15 minutes, stirring occasionally.
+
