@@ -20,7 +20,7 @@ description: "My goto dish for impressing my potato- and meat-loving friends."
 * 2/3 cup chicken broth (for deglazing)
 * Freshly chopped oregano to garnish
 
-# Instructions
+## Directions
 
 1. Put the chicken into a mixing bowl.
 Season with salt, pepper, rosemary, oregano, cayenne, and garlic.
