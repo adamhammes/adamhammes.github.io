@@ -15,7 +15,7 @@ description = "Fluffy make-ahead French toast."
 * Butter to grease pan
 
 
-## Instructions
+## Directions
 
 1. In a medium-size mixing bowl, whisk together the half-and-half, eggs, honey, and salt.
 This may be done the night before.

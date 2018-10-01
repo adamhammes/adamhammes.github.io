@@ -30,7 +30,7 @@ Garnishes:
 * 1 tbsp sesame seeds (optional)
 * 1 tbsp sriracha (optional)
 
-## Instructions
+## Directions
 
 1. Heat a large skillet over medium heat.
 Once hot, add the cooking oil, ground beef, garlic, ginger, salt, and pepper.

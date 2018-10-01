@@ -16,7 +16,7 @@ description: "Vegetarian quesadillas big on both flavor and convenience."
 * 1 batch taco seasoning
 * 10 taco-sized tortillas
 
-## Instructions
+## Directions
 
 1. Drain the can of beans and rinse lightly.
 Place the beans in a large bowl along with the corn (no need to thaw).

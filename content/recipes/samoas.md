@@ -26,7 +26,7 @@ Topping:
 * 1 teaspoon vanilla
 * 1½ cups semi sweet chocolate chips
 
-## Instructions
+## Directions
 
 1. To prepare the cookies, whisk together flour, baking powder, and salt and set aside.
 Mix together butter and sugar in a separate bowl until fluffy.

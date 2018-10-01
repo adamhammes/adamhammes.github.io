@@ -28,7 +28,7 @@ Chili Seasoning
 * 1 tsp salt
 * 1/2 tsp ground pepper
 
-## Instructions
+## Directions
 
 1. Cook the onions over medium heat until translucent.
 Add the ground beef and continue to cook until the beef is browned.
