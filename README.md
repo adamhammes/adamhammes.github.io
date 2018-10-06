@@ -1,7 +1,7 @@
 Dev:
 
 ```
-$ hugo serve
+$ hugo serve -D
 ```
 
 Deploy:
