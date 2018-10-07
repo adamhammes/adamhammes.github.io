@@ -13,6 +13,14 @@ $ git add . && git commit -a
 $ git push
 ```
 
+or 
+
+```
+$ . deploy.sh
+$ git commit
+$ git push
+```
+
 New post:
 
 ```
