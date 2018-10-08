@@ -6,14 +6,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>{{ block "title" . }}{{ end }}</title>
 
-    <style>
-        body {
-            font-size: 20px;
-            margin: 0 auto;
-            max-width: 40em;
-            padding: 1em;
-        }
-    </style>
+    {{ $inlineCSS := resources.Get "css/inline.css" | resources.Minify }}
+    <style>{{ $inlineCSS.Content | safeCSS }}</style>
 </head>
 
 <body>
