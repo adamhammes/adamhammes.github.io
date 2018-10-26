@@ -1,0 +1,57 @@
+$background-color: white;
+$text-color: black;
+
+$theme-color: #ae3535;
+$theme-color-dark: darken($theme-color, 20%);
+
+$contrast-color: rgb(65, 125, 198);
+$contrast-color-dark: darken($contrast-color, 20%);
+
+$body-font-family: "Amiri", serif;
+$header-font-family: "Muli", sans-serif;
+
+html {
+  background-color: $background-color;
+  font-size: 18px;
+  line-height: 1.4;
+  color: $text-color;
+  font-family: $body-font-family;
+}
+
+h1 {
+  font-family: $header-font-family;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 40em;
+  padding: 2rem;
+}
+
+.logo {
+  font-size: 1.5rem;
+  color: $theme-color;
+  font-family: monospace;
+  letter-spacing: 1px;
+
+  &:visited {
+    color: $theme-color;
+  }
+
+  &:hover {
+    color: $theme-color-dark;
+  }
+}
+
+a {
+  color: $contrast-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $contrast-color;
+  }
+
+  &:hover, &:focus {
+    color: $contrast-color-dark;
+  }
+}

@@ -1,19 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>{{ block "title" . }}{{ end }}</title>
+    <link href='http://fonts.googleapis.com/css?family=Amiri|Muli' rel='stylesheet' type='text/css' />
 
-    {{ $inlineCSS := resources.Get "css/inline.css" | resources.Minify }}
+    {{ $inlineCSS := resources.Get "css/inline.scss" | toCSS | resources.Minify }}
     <style>{{ $inlineCSS.Content | safeCSS }}</style>
 </head>
 
 <body>
-    <section class="logo">
+    <a class="logo">
         <span>/</span>^hammes.io<span>/</span>
-    </section>
+    </a>
     {{ block "main" . }}{{ end }}
 </body>
 
