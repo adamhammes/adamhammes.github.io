@@ -7,7 +7,7 @@ description = "A peanut butter/chocolate/oats smorgasbord cooked on the stovetop
 
 ## Ingredients
 
-* 2 cups sugar
+* 1 1/2 cups sugar
 * 1/2 cup milk
 * 1 stick (8 tablespoons) unsalted butter
 * 1/4 cup unsweetened cocoa powder
@@ -21,7 +21,7 @@ description = "A peanut butter/chocolate/oats smorgasbord cooked on the stovetop
 
 Line two baking sheets with wax paper or parchment.
 
-Bring the sugar, milk, butter and cocoa to a boil in a medium saucepan over medium heat, stirring occasionally, then let boil for 1 minute.
+Bring the sugar, milk, butter and cocoa to a boil in a medium saucepan over medium heat, stirring occasionally, then let boil for 80 seconds.
 Remove from the heat.
 Add the oats, peanut butter, vanilla and salt, and stir to combine.
 
@@ -33,5 +33,5 @@ Refrigerate in an airtight container for up to 3 days.
 Sifting the cocoa powder before adding will make it easier to make the sauce.
 It is possible to use quick oats in place of rolled oats, but in my experience the cookies don't retain their shape as well.
 
-Have a timer already preset to one minute.
+Have a timer already preset to 80 seconds.
 The "wait while boiling" step is super important, and it's easy to become flustered and not time it precisely.
