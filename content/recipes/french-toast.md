@@ -11,7 +11,7 @@ description = "Fluffy make-ahead French toast."
 * 3 large eggs
 * 2 tablespoons honey
 * 1/4 teaspoon salt
-* 3 (1/2 inch) slices day-old or stale country loaf
+* 12 (1/2 inch) slices day-old or stale country loaf
 * Butter to grease pan
 
 
@@ -29,5 +29,5 @@ Move the slices to a wire rack on a cooling pan and allow to sit.
 Place 2 slices of bread at a time into the pan and cook until golden brown, approximately 2 to 3 minutes per side.
 Put the slices on a wire rack over a pan when done and allow to rest for 2 more minutes.
 
-4. In the pre-heated oven, back the slices on a rack for five minutes.
+4. In the pre-heated oven, bake the slices on a rack for five minutes.
 Serve immediately.
